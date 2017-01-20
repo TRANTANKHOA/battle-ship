@@ -1,2 +1,2 @@
 # battle-ship
-Demonstration of Object Oriented Programming through the game [battle ship](https://en.wikipedia.org/wiki/Battleship_(game dsgddhg
+Demonstration of Functional and Object Oriented Programming through the game [battle ship](https://en.wikipedia.org/wiki/Battleship_(game))
